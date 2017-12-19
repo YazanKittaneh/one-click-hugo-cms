@@ -1,6 +1,6 @@
 ---
 title: La Encantada
-subtitle: Mexican Cuisine
+subtitle: Mexican Cuisinef
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
